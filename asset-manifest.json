@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React-Route-hm18/static/css/main.e6c13ad2.css",
+    "main.js": "/React-Route-hm18/static/js/main.c3ad47cb.js",
+    "index.html": "/React-Route-hm18/index.html",
+    "main.e6c13ad2.css.map": "/React-Route-hm18/static/css/main.e6c13ad2.css.map",
+    "main.c3ad47cb.js.map": "/React-Route-hm18/static/js/main.c3ad47cb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.c3ad47cb.js"
+  ]
+}
